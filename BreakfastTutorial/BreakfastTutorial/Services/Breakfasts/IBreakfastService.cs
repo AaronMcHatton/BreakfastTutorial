@@ -5,6 +5,6 @@ namespace BreakfastTutorial.Services.Breakfasts;
 
 public interface IBreakfastService
 {
-    BreakfastResponse CreateBreakfast(Breakfast breakfast);
-
+    void CreateBreakfast(Breakfast breakfast);
+    Breakfast GetBreakfast(Guid id);
 }
