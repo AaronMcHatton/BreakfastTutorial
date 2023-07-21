@@ -1,0 +1,12 @@
+/Users/mattmchatton/Documents/Projects/Internal/tutorials/BreakfastTutorial/BreakfastTutorial/BreakfastTutorial.Contracts/bin/Debug/net6.0/BreakfastTutorial.Contracts.deps.json
+/Users/mattmchatton/Documents/Projects/Internal/tutorials/BreakfastTutorial/BreakfastTutorial/BreakfastTutorial.Contracts/bin/Debug/net6.0/BreakfastTutorial.Contracts.dll
+/Users/mattmchatton/Documents/Projects/Internal/tutorials/BreakfastTutorial/BreakfastTutorial/BreakfastTutorial.Contracts/bin/Debug/net6.0/BreakfastTutorial.Contracts.pdb
+/Users/mattmchatton/Documents/Projects/Internal/tutorials/BreakfastTutorial/BreakfastTutorial/BreakfastTutorial.Contracts/obj/Debug/net6.0/BreakfastTutorial.Contracts.csproj.AssemblyReference.cache
+/Users/mattmchatton/Documents/Projects/Internal/tutorials/BreakfastTutorial/BreakfastTutorial/BreakfastTutorial.Contracts/obj/Debug/net6.0/BreakfastTutorial.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mattmchatton/Documents/Projects/Internal/tutorials/BreakfastTutorial/BreakfastTutorial/BreakfastTutorial.Contracts/obj/Debug/net6.0/BreakfastTutorial.Contracts.AssemblyInfoInputs.cache
+/Users/mattmchatton/Documents/Projects/Internal/tutorials/BreakfastTutorial/BreakfastTutorial/BreakfastTutorial.Contracts/obj/Debug/net6.0/BreakfastTutorial.Contracts.AssemblyInfo.cs
+/Users/mattmchatton/Documents/Projects/Internal/tutorials/BreakfastTutorial/BreakfastTutorial/BreakfastTutorial.Contracts/obj/Debug/net6.0/BreakfastTutorial.Contracts.csproj.CoreCompileInputs.cache
+/Users/mattmchatton/Documents/Projects/Internal/tutorials/BreakfastTutorial/BreakfastTutorial/BreakfastTutorial.Contracts/obj/Debug/net6.0/BreakfastTutorial.Contracts.dll
+/Users/mattmchatton/Documents/Projects/Internal/tutorials/BreakfastTutorial/BreakfastTutorial/BreakfastTutorial.Contracts/obj/Debug/net6.0/refint/BreakfastTutorial.Contracts.dll
+/Users/mattmchatton/Documents/Projects/Internal/tutorials/BreakfastTutorial/BreakfastTutorial/BreakfastTutorial.Contracts/obj/Debug/net6.0/BreakfastTutorial.Contracts.pdb
+/Users/mattmchatton/Documents/Projects/Internal/tutorials/BreakfastTutorial/BreakfastTutorial/BreakfastTutorial.Contracts/obj/Debug/net6.0/ref/BreakfastTutorial.Contracts.dll

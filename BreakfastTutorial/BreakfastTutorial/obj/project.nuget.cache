@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xF/xNiESgOUV9LScoaEZep8zsb/jQwDOI2lG+/DNxfGAFkbD8lI+FB6zjpCMXJ2WfY1KOTvu2u+6Nv5fj74EsQ==",
+  "success": true,
+  "projectFilePath": "/Users/mattmchatton/Documents/Projects/Internal/tutorials/BreakfastTutorial/BreakfastTutorial/BreakfastTutorial/BreakfastTutorial.csproj",
+  "expectedPackageFiles": [
+    "/Users/mattmchatton/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/mattmchatton/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/mattmchatton/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/mattmchatton/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/mattmchatton/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/mattmchatton/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

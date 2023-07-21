@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakfastTutorial.Contracts", "BreakfastTutorial.Contracts\BreakfastTutorial.Contracts.csproj", "{B02B7565-F0FD-4DE7-957F-807971AFAE91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakfastTutorial", "BreakfastTutorial\BreakfastTutorial.csproj", "{37CD6313-1275-4B63-B0E0-2DA03BD47AF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B02B7565-F0FD-4DE7-957F-807971AFAE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02B7565-F0FD-4DE7-957F-807971AFAE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02B7565-F0FD-4DE7-957F-807971AFAE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02B7565-F0FD-4DE7-957F-807971AFAE91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37CD6313-1275-4B63-B0E0-2DA03BD47AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CD6313-1275-4B63-B0E0-2DA03BD47AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CD6313-1275-4B63-B0E0-2DA03BD47AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CD6313-1275-4B63-B0E0-2DA03BD47AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
