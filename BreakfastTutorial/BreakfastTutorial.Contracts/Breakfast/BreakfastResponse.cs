@@ -1,6 +1,6 @@
 namespace BreakfastTutorial.Contracts.Breakfast;
 
-public record CreateBreakfastResponse(
+public record BreakfastResponse(
     Guid id,
     string name,
     string description,
